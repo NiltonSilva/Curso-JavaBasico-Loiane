@@ -12,6 +12,11 @@ public class LoopWhile {
 			 System.out.println("Valor de i: " + i);
 			 i += 1;
 		 }
+		 
+		 do {
+			 System.out.println("Valor de i: " + i);
+			 i += 1;
+		 } while (i < 15);
 
 	}
 
