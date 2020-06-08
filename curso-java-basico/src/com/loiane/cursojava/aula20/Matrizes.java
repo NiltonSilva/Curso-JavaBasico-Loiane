@@ -49,6 +49,8 @@ public class Matrizes {
 			}
 			System.out.println("A média do aluno " + i + " é = " + (soma/4));
 		}
+		
+		
 	}
 
 }
